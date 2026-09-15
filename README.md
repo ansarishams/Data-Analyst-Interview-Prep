@@ -23,32 +23,6 @@ The goal is to improve my technical skills, problem-solving ability and confiden
 
 ---
 
-## Repository Structure
-
-Data-Analyst-Interview-Prep/
-│
-├── SQL/
-│   ├── Customer_churn.sql
-│   └── IBM_HR_Attrition.sql
-│   └── Olist_E-commerce.sql
-│
-├── Excel/
-│   ├── Customer-Churn/
-│   └── IBM-HR/
-│   └── Olist-E-commerce/
-│
-├── Power-BI/
-│   └── Practice/
-│
-├── Interview-Questions/
-│   ├── Excel/
-│   └── Power-BI/
-│   └── SQL/
-│
-└── README.md
-
----
-
 ## SQL Practice
 
 The SQL section contains queries that I practice using real datasets.
