@@ -6,6 +6,8 @@ I created this repo to keep my preparation organized and practical. Instead of o
 
 The goal is to improve my technical skills, problem-solving ability and confidence for Data Analyst interviews.
 
+---
+
 ## What I'm Practicing
 
 - SQL
@@ -18,6 +20,8 @@ The goal is to improve my technical skills, problem-solving ability and confiden
 - Project-Based Interview Questions
 - Problem Solving
 - Interview Preparation
+
+---
 
 ## Repository Structure
 
@@ -42,6 +46,8 @@ Data-Analyst-Interview-Prep/
 │   └── SQL/
 │
 └── README.md
+
+---
 
 ## SQL Practice
 
@@ -70,6 +76,8 @@ Topics I am covering include:
 
 The focus is not just on writing SQL syntax. I am trying to understand how SQL can be used to answer real business questions and solve practical problems.
 
+---
+
 ### Datasets Used
 
 Customer Churn
@@ -83,6 +91,8 @@ Used for employee, salary, department, job role and attrition-related analysis.
 Olist E-commerce
 
 Used for orders, customers, products, sales, revenue, delivery and e-commerce-related analysis.
+
+---
 
 ## Excel Practice
 
@@ -105,6 +115,8 @@ Topics include:
 
 I am using Excel not only to practice formulas, but also to understand data and find useful information from it.
 
+---
+
 ## Power BI Practice
 
 The Power BI section is focused on improving my dashboarding and data visualization skills.
@@ -126,6 +138,8 @@ Topics include:
 - Business Insights
 
 The goal is to turn raw data into simple and useful dashboards that help explain a business problem clearly.
+
+---
 
 ## Interview Questions
 
@@ -162,6 +176,8 @@ The Interview-Questions section contains questions that I am preparing for Data 
 - Visualization
 - Scenario-Based Questions
 
+---
+
 ## Project-Based Practice
 
 I am also practicing interview questions using real project datasets instead of only working with random questions.
@@ -180,6 +196,8 @@ For example, if a company wants to understand why customer churn is increasing, 
 
 This approach helps me prepare for practical and scenario-based questions that can come up in Data Analyst interviews.
 
+---
+
 ## My Learning Approach
 
 My overall approach is:
@@ -196,6 +214,8 @@ For every problem, I try to understand:
 - Which tool is suitable?
 - What does the result tell us?
 - How can the result help the business?
+
+---
 
 ## Why I Created This Repository
 
@@ -214,6 +234,8 @@ It helps me:
 
 I will keep adding new questions, queries and practice work as I continue learning.
 
+---
+
 ## Progress
 
 This repository is a work in progress and will be updated regularly.
@@ -225,6 +247,8 @@ This repository is a work in progress and will be updated regularly.
 | Power BI | In Progress |
 | Interview Questions | In Progress |
 | Business Analysis | In Progress |
+
+---
 
 ## Goal
 
