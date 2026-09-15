@@ -29,12 +29,12 @@ Data-Analyst-Interview-Prep/
 │
 ├── SQL/
 │   ├── Customer_churn.sql
-│   ├── IBM_HR_Attrition.sql
+│   └── IBM_HR_Attrition.sql
 │   └── Olist_E-commerce.sql
 │
 ├── Excel/
 │   ├── Customer-Churn/
-│   ├── IBM-HR/
+│   └── IBM-HR/
 │   └── Olist-E-commerce/
 │
 ├── Power-BI/
@@ -42,7 +42,7 @@ Data-Analyst-Interview-Prep/
 │
 ├── Interview-Questions/
 │   ├── Excel/
-│   ├── Power-BI/
+│   └── Power-BI/
 │   └── SQL/
 │
 └── README.md
